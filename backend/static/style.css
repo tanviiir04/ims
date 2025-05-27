@@ -1,0 +1,50 @@
+body {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #f0f0f0;
+}
+
+/* Priority colors */
+.badge-critical {
+    background-color: #dc3545;
+    color: white;
+}
+.badge-high {
+    background-color: #fd7e14;
+    color: white;
+}
+.badge-medium {
+    background-color: #ffc107;
+    color: black;
+}
+.badge-low {
+    background-color: #28a745;
+    color: white;
+}
+
+.badge {
+    margin-right: 8px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+.badge-low {
+    background-color: #0dcaf0;
+}
+.badge-medium {
+    background-color: #198754;
+}
+.badge-high {
+    background-color: #fd7e14;
+}
+.badge-critical {
+    background-color: #dc3545;
+}
